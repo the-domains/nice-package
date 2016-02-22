@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[nice package]]></title>
         <description><![CDATA[nice package]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nice-package/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 20:48:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 22 Feb 2016 20:50:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nice-package/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b0bd7d8-0b3f-4669-8c5b-874169ef8bd1.jpg">]]></description>
-            <link>undefined3c711084-987d-488e-85ce-3b7270bafcf8/index.html</link>
+            <link>https://thegrid.ai/nice-package/3c711084-987d-488e-85ce-3b7270bafcf8/index.html</link>
             <guid isPermaLink="false">3c711084-987d-488e-85ce-3b7270bafcf8</guid>
-            <pubDate>Mon, 22 Feb 2016 20:48:06 GMT</pubDate>
+            <pubDate>Mon, 22 Feb 2016 20:50:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
